@@ -4,6 +4,14 @@ Multi-label classification of dental findings in panoramic radiographs (OPGs) us
 
 This project develops an image-level deep learning pipeline for predicting multiple dental findings simultaneously from a complete panoramic dental radiograph.
 
+## License
+
+The source code in this repository is licensed under the [MIT License](LICENSE).
+
+The dataset used in this project is **not included in this repository**. The dataset remains subject to the terms of use specified by the original dataset authors on Zenodo.
+
+Please refer to the original dataset source for its licensing and usage conditions.
+
 ## Project Overview
 
 Panoramic dental radiographs may contain several findings at the same time.  
@@ -135,10 +143,4 @@ opg-multilabel-classification/
 ├── LICENSE
 └── .gitignore
 
-## License
 
-The source code in this repository is licensed under the [MIT License](LICENSE).
-
-The dataset used in this project is **not included in this repository**. The dataset remains subject to the terms of use specified by the original dataset authors on Zenodo.
-
-Please refer to the original dataset source for its licensing and usage conditions.
